@@ -6,4 +6,9 @@
 
 .heading {
     font-size: 75px;
+    margin: 20px;
+}
+
+.recipe {
+    margin: 10px;
 }
